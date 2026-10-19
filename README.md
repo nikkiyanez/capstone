@@ -1,4 +1,4 @@
-# capstone
+# Self Assessment
 
 
 Completing the Computer Science program and developing my ePortfolio has allowed me to reflect on how much I have grown as a programmer, problem solver, and future software developer. Throughout the program, I have developed technical knowledge while also improving the professional skills needed to succeed in the technology field. The projects I completed challenged me to apply programming concepts, design software solutions, manage databases, and think critically about improving existing applications. Creating this ePortfolio allowed me to demonstrate not only the final products I created but also the thought process, problem solving skills, and continuous improvements that went into developing them.
